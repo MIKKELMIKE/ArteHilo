@@ -1,0 +1,5 @@
+# Archivos y carpetas que NO se deben subir al repositorio
+includes/db.php
+*.zip
+*.sql
+.DS_Store
